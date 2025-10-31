@@ -1,4 +1,4 @@
-package matching
+package mathing
 
 func Add(a, b int) int {
 	return a + b
